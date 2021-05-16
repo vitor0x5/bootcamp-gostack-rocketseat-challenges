@@ -1,2 +1,2 @@
 # bootcamp-gostack-rocketseat-challenges
-My resolutions of gostack bootcamp challenges
+My resolutions for gostack bootcamp challenges
